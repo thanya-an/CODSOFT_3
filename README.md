@@ -28,4 +28,4 @@ It supports simple arithmetic operations like addition, subtraction, multiplicat
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/CODSOFT.git
+   git clone https://github.com/thanya-an/CODSOFT_3.git
