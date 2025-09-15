@@ -22,6 +22,9 @@ It supports simple arithmetic operations like addition, subtraction, multiplicat
 - **Language**: Python 3  
 - **GUI Library**: Tkinter  
 
+## 📷 Screenshot
+[Calculator Screenshot] (screenshot.png)
+
 
 
 
