@@ -23,7 +23,7 @@ It supports simple arithmetic operations like addition, subtraction, multiplicat
 - **GUI Library**: Tkinter  
 
 ## 📷 Screenshot
-[Calculator Screenshot] (Screenshot.png)
+[Calculator Screenshot](Screenshot.png)
 
 
 
